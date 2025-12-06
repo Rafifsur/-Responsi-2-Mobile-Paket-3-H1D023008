@@ -3,7 +3,11 @@
 **Rafif Surya Murtadha | H1D023008 | Shift B → C**
 
 ## 🎥 Video Demo
-<video controls src="Demo_responsi2_H1D023008-1.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/1234f5ca-2e35-492a-b12d-fb77dfae6570
+
+
 
 
 ---
